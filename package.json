@@ -1,0 +1,17 @@
+{
+  "name": "cscd-311-class-project-api",
+  "version": "1.0.0",
+  "description": "backend for hall registration",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "author": "Razak Addo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.3",
+    "nodemon": "^1.19.3"
+  }
+}
